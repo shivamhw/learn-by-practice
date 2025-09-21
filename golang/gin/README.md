@@ -7,4 +7,5 @@
 - [ ] Add database connection
 - [ ] Static File Server
 - [ ] Parallel download server
-- [ ] Metrics???
+- [ ] Integrate swagger
+- [ ] Metrics and logging???
